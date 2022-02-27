@@ -2,5 +2,23 @@
   "dependencies": {
     "date-fns": "^2.28.0",
     "moment": "^2.29.1"
-  }
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "Bank_tech_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssgujral/Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssgujral/Javascript/issues"
+  },
+  "homepage": "https://github.com/ssgujral/Javascript#readme",
+  "description": ""
 }
