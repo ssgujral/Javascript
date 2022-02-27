@@ -20,5 +20,8 @@
     "url": "https://github.com/ssgujral/Javascript/issues"
   },
   "homepage": "https://github.com/ssgujral/Javascript#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
